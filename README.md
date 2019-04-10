@@ -1,5 +1,5 @@
 # simple-chatbot-java
-very small chatbot program in java.
+Very small chatbot program in java.
 
 1. It has nothing in beginning.
 2. you can ask a question.
